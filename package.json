@@ -1,0 +1,28 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "it's like siri but lame and with text",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Theguyfromtv/liri-node-app.git"
+  },
+  "author": "meeeee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Theguyfromtv/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/Theguyfromtv/liri-node-app#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "i": "^0.3.6",
+    "node-spotify-api": "^1.0.7",
+    "npm": "^5.8.0",
+    "request": "^2.85.0",
+    "spotify-web-api-node": "^3.0.0",
+    "twitter": "^1.7.1"
+  }
+}
